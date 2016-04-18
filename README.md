@@ -1,3 +1,5 @@
+Не встиг зробити нормально. У мене тільки простий notification. Кидаю що є.
+  
 Server API Key  
 AIzaSyBQbHazAGHyFted3gE14oiEUiYr0JA2Wc0  
   
